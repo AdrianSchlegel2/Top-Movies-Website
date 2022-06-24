@@ -1,2 +1,4 @@
 # Top Movies Website
- A website that saves youre favorite movies and ranks them
+A website that saves youre favorite movies and ranks them. You simply run the program and therefore run the website over your own PC. This program lets you add your own favorite movie to a beautiful website created with bootstrap (Twitter created Frontend CSS Framework). You can add the movies and the website will automatically fetch the info of the movie using the The Movie Database API to get info like the release date of the movie, the title, the description and the poster URL. You can also enter a personal review and personal score for the movie.
+
+The whole website runs on the webframework Flask and the info is saved to a database using SQLAcademy. The website automatically orders your list of movies from lowest rank to highest rank, like a real top x movies website!
